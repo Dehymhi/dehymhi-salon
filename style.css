@@ -11,14 +11,13 @@ img {
     display: block;
     margin: 20px auto;
 }
-.service-link {
-    paddingS: 10px 20px;
-    text-align: center;
-    font-size: 16px;
+.services-link {
+    display: inline-block;
     background-color: rgb(226, 127, 144);
     color: white;
-    text-decoration: none;
-    border-radis: 8px;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 20px;
 }
 .description {
             text-align: center;
