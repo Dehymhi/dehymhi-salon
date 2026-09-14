@@ -1,0 +1,66 @@
+.title {
+    font-size: 36px;
+    text-align: center;
+    color: rgb(226, 127, 144);
+    margin-bottom: 20px;
+}
+img {
+    width: 800px;
+    height: 400px;
+    border-radius: 15px;
+    display: block;
+    margin: 20px auto;
+}
+.service-link {
+    paddingS: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+    background-color: rgb(226, 127, 144);
+    color: white;
+    text-decoration: none;
+    border-radis: 8px;
+}
+.description {
+            text-align: center;
+            font-size: 18px;
+            color: rgb(226, 127, 144);
+            margin: 20px auto;
+            width: 800px;
+            font-weight: bold;
+}
+.hairstyles{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.style {
+    text-align: center;
+    color: rgb(226, 127, 144);
+}
+.style img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.services-table {
+    width: 500px;
+    margine: 20px;
+    boarder-collapse: collapse;
+    table-layout: fixed;   
+}
+.services-table th {
+    background-color: rgb(226, 127, 144);
+    color: white
+    padding: 10px;
+    text-align: center
+    boarder: 1px solid black;
+}
+.services-table td {
+    padding: 10px;
+    boarder: 1px solid black;
+    text-aliign: center;
+}
+.sub-heading {
+    color: rgb(226, 127, 144);
+    font-size: 24px;
+}
